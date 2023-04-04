@@ -30,6 +30,11 @@ I am a Data Analyst :chart_with_downwards_trend: from Moscow.
 - :camera_flash: In my free time, I'm interested in photography and logical quests and quizzes 
 
 ---
+
+### Pet-project:
+Here you can see my pet-projects in a different spheres.
+[Data analysis projects](https://github.com/Ruzhaya/Data_analysis_projects)
+[Data science projects](https://github.com/Ruzhaya/Data_science_projects)
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
