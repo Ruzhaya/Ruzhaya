@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me:
 I am a full-stack Data Analyst :chart_with_downwards_trend: from Moscow.
-- :microscope: I finished the Data Analysis $ Data Science course at Practikum by Yandex 
+- :microscope: I finished the Data Analysis & Data Science course at Practikum by Yandex 
 - :bar_chart: Training my hard-skills on the pet-projects 
 - :camera_flash: In my free time, I'm interested in photography and logical quests and quizzes 
 
